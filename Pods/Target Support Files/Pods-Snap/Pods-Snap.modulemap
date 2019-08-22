@@ -1,0 +1,6 @@
+module Pods_Snap {
+  umbrella header "Pods-Snap-umbrella.h"
+
+  export *
+  module * { export * }
+}
